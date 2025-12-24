@@ -63,13 +63,6 @@ make run
 Drop any `oneko*.png` sprite sheets in `src/sprite/` and they'll be automatically detected! The sprite sheet should be 32x32 pixel frames in an 8-column grid format.
 defalt one is provided it is called `oneko-W.png`
 
-## Autostart on Boot
-
-Want mousecat to start automatically when you log in? Check out the `install/` directory for installation scripts:
-
-```bash
-cd install
-./install-autostart.sh
 ```
 
 See `install/README.md` for more options.
