@@ -61,6 +61,7 @@ make run
 ## Adding Custom Sprites
 
 Drop any `oneko*.png` sprite sheets in `src/sprite/` and they'll be automatically detected! The sprite sheet should be 32x32 pixel frames in an 8-column grid format.
+defalt one is provided it is called `oneko-W.png`
 
 ## Autostart on Boot
 
