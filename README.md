@@ -6,12 +6,12 @@ An animated desktop pet that follows your mouse cursor around the screen. A mode
 
 ## Features
 
-- 🎨 Multiple color palettes (swap with triple left-click)
-- 🏃 Smooth animations with multiple states (running, idle, sleeping, scratching)
-- 💤 Auto-sleeps when mouse is idle for 30 seconds
-- 🎯 Smart chase behavior with deadzone detection
-- 🖱️ Interactive controls (5 right-clicks to close, 3 left-clicks to change color)
-- 🖥️ Multi-monitor support
+- Multiple color palettes (swap with triple left-click)
+- Smooth animations with multiple states (running, idle, sleeping, scratching)
+- Auto-sleeps when mouse is idle for 30 seconds
+- Smart chase behavior with deadzone detection
+- Interactive controls (5 right-clicks to close, 3 left-clicks to change color)
+- Multi-monitor support
 
 ## Dependencies
 
@@ -73,7 +73,6 @@ mousecat/
 │   ├── main.cpp              # Entry point
 │   ├── include/              # Header files
 │   └── sprite/               # Sprite palettes (oneko*.png)
-├── install/                  # Installation scripts and docs
 ├── mousecat                  # Compiled binary
 └── Makefile
 ```
